@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JithinPShaji
+- 👋 Hi, I’m @Jithin Parackanirappel Shaji
 - 👀 I’m interested in Machine Learning, Test Automation, Data Science
 - 🌱 I’m currently learning Advanced Engineering and Management
 - 💞️ I’m looking to collaborate on ...
